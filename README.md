@@ -1,2 +1,2 @@
-# causal-titanic
-Causal modelling on the Titanic Dataset
+# causal-ice-cream
+Causal modelling on ice cream sales
